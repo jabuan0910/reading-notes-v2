@@ -1,4 +1,9 @@
-# reading-notes-v2
-My reading journal for Code Fellows 102n65
+# My Reading Notes Journal v2 
+
+# Welcome to my Codefellows newbie page
+
+## What is growth mindset for me?
+
+> **Growth Mindset**
 
 
