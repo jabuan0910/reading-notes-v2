@@ -12,7 +12,7 @@
 3) Never give up. Think creatively to endure the pain of stumbling through roadblocks - ask questions; use resources to finding the answers.
 
 
-##About me##
+## About me
 My name is James. I currently live in Kirkland, WA. However, I've been staying in the countryside at my parent's house near Bonney Lake where I enjoy being away from the city hustle and bustle. As far as my day job, I'm an Implementation Consultant for a fintech the last 3+ years helping small to mid-size companies set up their tax compliance software. I love tech and I'll continue to stay within it for years to come. As I have a tendency to go down certain rabbit holes during my spare time, I'll even immerse myself around blockchain, NFTs, and Defi. I've also spent countless hours teaching myself to code. Since coming across Code Fellows I've decided to instead learn from a live instructor lead course environment. Best decision I've ever made! Happy coding!!
 
 
