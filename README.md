@@ -7,9 +7,9 @@
 > **Growth Mindset** is the capability of taking something unlearned and igniting with relentless personal belief developed through one's own effort and perseverance. Hence, possessing the passion to learn infinitely.
 
 ## 3 things that keep me in check to maintaining a *growth mindset*.
-1) Stay positive. Having a positive mental attitude is key to keeping one's own mental focus from drifting to something negative.
-2) Create mental curiousity. Stacking up this trait helps to build momentum when directing your self to learning at full capacity.
-3) Never give up. Think creatively to endure the pain of stumbling through roadblocks - ask questions; use resources to finding the answers.
+1. Stay positive. Having a positive mental attitude is key to keeping one's own mental focus from drifting to something negative.
+2. Create mental curiousity. Stacking up this trait helps to build momentum when directing your self to learning at full capacity.
+3. Never give up. Think creatively to endure the pain of stumbling through roadblocks - ask questions; use resources to finding the answers.
 
 
 ## About me
