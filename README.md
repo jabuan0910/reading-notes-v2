@@ -1,15 +1,6 @@
-# My Reading Notes Journal v2 
+# My Reading Notes Repo Journal v2 
 
 # Welcome to my Codefellows newbie page
-
-## What is growth mindset for me?
-
-> **Growth Mindset** is the capability of taking something unlearned and igniting with relentless personal belief developed through one's own effort and perseverance. Hence, possessing the passion to learn infinitely.
-
-## 3 things that keep me in check to maintaining a *growth mindset*.
-1. Stay positive. Having a positive mental attitude is key to keeping one's own mental focus from drifting to something negative.
-2. Create mental curiousity. Stacking up this trait helps to build momentum when directing your self to learning at full capacity.
-3. Never give up. Think creatively to endure the pain of stumbling through roadblocks - ask questions; use resources to finding the answers.
 
 
 ## About me
@@ -17,6 +8,12 @@ My name is James. I currently live in Kirkland, WA. However, I've been staying i
 
 
 View my link on [GitHub](https://github.com/jabuan0910) or connect with me on [LinkedIn](https://www.linkedin.com/in/jabuan/)
+
+## Table of Contents
+
+1. [Markdown](markdown.md)
+2. [Coder's Computer](coderscomputer.md)
+3.
 
 
 Happy coding!!
