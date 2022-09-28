@@ -9,7 +9,7 @@ Reading Materials:
 
 [The Command Line!](https://ryanstutorials.net/linuxtutorial/commandline.php)
 [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
-[https://ryanstutorials.net/linuxtutorial/aboutfiles.php](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+[More About Files!](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 [Choosing A Text Edior] (https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 
