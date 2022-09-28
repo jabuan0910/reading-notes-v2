@@ -7,10 +7,10 @@
 
 Reading Materials:
 
-*[The Command Line!](https://ryanstutorials.net/linuxtutorial/commandline.php)
-*[Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
-*[More About Files!](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
-*[Choosing A Text Edior](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+* [The Command Line!](https://ryanstutorials.net/linuxtutorial/commandline.php)
+* [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+* [More About Files!](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+* [Choosing A Text Edior](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 
 ## Text Editors
