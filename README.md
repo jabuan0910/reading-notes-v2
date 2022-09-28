@@ -11,7 +11,7 @@ View my link on [GitHub](https://github.com/jabuan0910) or connect with me on [L
 
 ## Table of Contents
 
-1. [Markdown](markdown.md)
+1. [Markdown Learning](markdown.md)
 2. [Coder's Computer](coderscomputer.md)
 3.
 
