@@ -55,5 +55,5 @@ See guide [Basic writing and formatting syntax](https://docs.github.com/en/get-s
 
 Also, with [GitHub](https://github.com/). We learned how to create .md files on the site. Great for developers to collaborate!
 
-[Back to home page](https://github.com/jabuan0910/reading-notes/blob/main/README.md)
+[Back to home page](https://github.com/jabuan0910/reading-notes-v2/blob/main/README.md)
 
