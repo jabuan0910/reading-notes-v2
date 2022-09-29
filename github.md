@@ -17,4 +17,7 @@ Some basic Git terminal commands include:
 * git status = Lets you know the standing of modified files and whether they are staged to be committed or not, or  if there are commits needing to be pushed
 * git stash = Allows you to temporarily hide changes that your not ready to commit
 
-[Back to home page](https://github.com/jabuan0910/reading-notes-v2/blob/main/README.md)
+[Back to home page](https://jabuan0910.github.io/reading-notes-v2/github.html)
+
+
+
