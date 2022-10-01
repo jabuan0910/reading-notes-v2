@@ -23,8 +23,8 @@ View my link on [GitHub](https://github.com/jabuan0910) or connect with me on [L
 1. [Markdown Learning](markdownlearning.md)
 2. [Coder's Computer](coderscomputer.md)
 3. [Git vs GitHub](github.md)
-4. [html](html.md)
-5. [css](css.md)
+4. [HTML](HTML.md)
+5. [CSS](CSS.md)
 
 
 
