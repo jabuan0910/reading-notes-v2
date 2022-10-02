@@ -35,11 +35,21 @@ h1 {
 * Inside the braces will be one or more declarations, which take the form of property and value pairs. We specify the property (color in the above example) before the colon, and we specify the value of the property after the colon (red in this example).
 * This example contains two declarations, one for color and the other for font-size. Each pair specifies a property of the element(s) we are selecting (`<h1>`) in this case), then a value that we'd like to give the property.
 
-Reading assignments sourced 
+
+Readings sourced: 
 * [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 * [How to Add CSS](https://www.w3schools.com/css/css_howto.asp)
 * [CSS Color](https://www.w3schools.com/cssref/pr_text_color.asp)
+* [CSS  Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 
+Additional readings:
+
+* [Selector (CSS)](https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector)
+
+
+Tools:
+* [Color scheme website by adobe](https://color.adobe.com/create/color-wheel)
 
 
 Back to [home page](https://jabuan0910.github.io/reading-notes/)
