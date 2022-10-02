@@ -14,7 +14,7 @@ We learned how to wireframe and use HTML to structure a website.
 
 - When designing for the screen you need to know where all the information is going to go in plain black and white diagrams before building anything with code—whether that’s a developer coding it, or you the designer. Wireframing is also a great way of getting to know how a user interacts with your interface, through the positioning of buttons and menus on the diagrams.
 
-![Wireframe image](https://duckduckgo.com/?q=popular+wireframe+examples&t=brave&iar=images&iax=images&ia=images&iai=https%3A%2F%2F1.bp.blogspot.com%2F-DQk_iW5IxoE%2FXmYD57slCyI%2FAAAAAAAAVTU%2FTd9JPXhgwZQGWKBDL1dbUb8gBhBL-yv_ACLcBGAsYHQ%2Fs1600%2FScreen%252BShot%252B2020-03-09%252Bat%252B08.51.24.png)
+![Wireframe image](anthony-james-wireframe.png)
 
 - Without the distractions of colors, typeface choices or text, wireframing lets you plan the layout and interaction of your interface. A commonly-used argument for wireframing is that if a user doesn’t know where to go on a plain hand-drawn diagram of your site page, then it is irrelevant what colors or fancy text eventually get used. A button or call to action needs to be clear to the user even it’s not brightly colored and flashing.
 
