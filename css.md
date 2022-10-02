@@ -36,6 +36,7 @@ h1 {
 * This example contains two declarations, one for color and the other for font-size. Each pair specifies a property of the element(s) we are selecting (`<h1>`) in this case), then a value that we'd like to give the property.
 
 
+
 Readings sourced: 
 * [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 * [How to Add CSS](https://www.w3schools.com/css/css_howto.asp)
@@ -44,7 +45,6 @@ Readings sourced:
 * [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 
 Additional readings:
-
 * [Selector (CSS)](https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector)
 
 
@@ -52,4 +52,4 @@ Tools:
 * [Color scheme website by adobe](https://color.adobe.com/create/color-wheel)
 
 
-Back to [home page](https://jabuan0910.github.io/reading-notes/)
+Back to [Home page](https://jabuan0910.github.io/reading-notes-v2/)
