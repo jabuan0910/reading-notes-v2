@@ -98,11 +98,12 @@ Examples of Semantic elements:
 <time>
 ```
 
+
 Class Reading - [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-Additional Readings
-[HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+Additional Readings:
+* [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ### [See HTML elements here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
