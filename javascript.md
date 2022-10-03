@@ -1,6 +1,6 @@
 # JavaScript
 
-### Day 6 - 10//22 - Code 102
+### Day 6 - 10/2 - Code 102
 
 We have learned JavaScript today in relation to variables and what the content of the code looks like. In a nutshell, its a dynamic language that gives interaction for a website that are coded with certain expressions and variables. Its like having interactive muscles for both html and css in order to move.  Consistently, there is a quite a bit of logic that's put into it.
 
