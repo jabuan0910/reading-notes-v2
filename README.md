@@ -27,7 +27,8 @@ View my link on [GitHub](https://github.com/jabuan0910) or connect with me on [L
 5. [CSS](css.md)
 6. [Javascript](javascript.md)
 7. [Javascript1](javascript1.md)
-8. 
+8. [Javascript3](javascript2.md)
+9. [CareerCoaching]CareerCoaching.md)
 
 
 
