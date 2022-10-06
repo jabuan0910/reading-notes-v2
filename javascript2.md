@@ -1,5 +1,15 @@
 # Operators and Loops
 
+### Day 8 - 10/4/22 - Code 102n65
+
+Today we have learned for loops and while Loops in JavaScript.
+
+Main Focuses:
+
+      * `Comparison operators/Assignment operators`
+      * `for statement`
+      * `while statement`
+
 # Why Loops?
 
 Loops are really helpful when you're trying to do something
@@ -54,15 +64,6 @@ Used when you don't know how many times the loop executes.
 
 i = i + 1
 
-### Day 8 - 10/4/22 - Code 102n65
-
-Today we have learn expressions, operators and Loops in JavaScript.
-
-Main Focuses:
-
-      * `Comparison operators/Assignment operators`
-      * `for statement`
-      * `while statement`
 
 ## Comparison operators
 
