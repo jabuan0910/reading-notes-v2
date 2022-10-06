@@ -1,6 +1,6 @@
 # Operators and Loops
 
-### Day 8 - 6/28/22 - Code 102n63
+### Day 8 - 10/4/22 - Code 102n65
 
 Today we have learn expressions, operators and Loops in JavaScript.
 
