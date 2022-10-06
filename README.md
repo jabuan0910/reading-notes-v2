@@ -31,6 +31,7 @@ View my link on [GitHub](https://github.com/jabuan0910) or connect with me on [L
 9. [CareerCoaching](CareerCoaching.md)
 
 
+[Repo Notes Seattle-code-102n65](https://github.com/codefellows/seattle-code-102n65)
 
 
 Happy coding!!
